@@ -62,4 +62,4 @@ This bot was made with ❤ by Wise \|\|Dev\|\| Loves To Help#1104
 
 Thank you for using this bot!
 
-WiseBot Official || © Copyright 2020
+WiseBot Official | [Discord](https://discord.gg/whcWKaZ) | [Add Bot](https://dsc.gg/wisebot)
