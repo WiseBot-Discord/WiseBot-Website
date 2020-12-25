@@ -1,5 +1,5 @@
 ## Welcome to WiseBot’s official page!
-![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.2.1-blue?style=for-the-badge&logo=discord)
+![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.2.2-blue?style=for-the-badge&logo=discord)
 
 This page is for the Discord bot, WiseBot.
 - [Invite me!](https://dsc.gg/wisebot)
@@ -8,7 +8,7 @@ This page is for the Discord bot, WiseBot.
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
 
-For now, the global prefix is >. Dynamic prefixes will arrive soon (hopefully).
+For now, the global prefix is `>`. Dynamic prefixes will arrive soon (hopefully).
 
 ### Moderation
 
