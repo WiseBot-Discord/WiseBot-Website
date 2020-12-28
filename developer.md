@@ -13,7 +13,7 @@ permalink: /developer
 
 ## I'm an aspiring developer, learning many things.
 
-- 😎 I'm the developer of [WiseBot](https://dsc.gg/wisebot), an amazing Discord bot!
+- 😎 I'm the developer of this amazing Discord bot, WiseBot!
 - 🔎 I’m exploring new things!
 - 👀 Fun fact: I love to help people!
 
@@ -28,4 +28,4 @@ permalink: /developer
 
 ---
 
-Thanks for using my bot!
+Thanks for using my bot! ❤
