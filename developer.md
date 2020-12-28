@@ -27,3 +27,5 @@ permalink: /developer
 </details>
 
 ---
+
+Thanks for using my bot!
