@@ -58,7 +58,7 @@ Thank you for using WiseBot!
 ## Support or Contact
 Having trouble with using the bot? Want to contact us? Join our support server [here!](https://discord.gg/whcWKaZ)
 
-This bot was made with ❤ by Wise \|\|Dev\|\| Loves To Help#1104
+This bot was made with ❤ by [Wise \|\|Dev\|\| Loves To Help#1104](./developer)
 
 Thank you for using this bot!
 
