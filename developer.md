@@ -25,3 +25,5 @@ permalink: /developer
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Wise2006&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
+
+---
