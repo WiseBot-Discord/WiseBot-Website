@@ -2,8 +2,8 @@
 ![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.2.2-blue?style=for-the-badge&logo=discord)
 
 This page is for the Discord bot, WiseBot.
-- [Invite me!](https://dsc.gg/wisebot)
-- [Support!](https://discord.gg/whcWKaZ)
+- [Invite me!](./invite)
+- [Support!](./support)
 
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
@@ -56,10 +56,10 @@ Thank you for using WiseBot!
 ![WiseBot Avatar](https://cdn.discordapp.com/avatars/708265201438425128/079dcccdc25467061ac10c8870b74b01.png)
 
 ## Support or Contact
-Having trouble with using the bot? Want to contact us? Join our support server [here!](https://discord.gg/whcWKaZ)
+Having trouble with using the bot? Want to contact us? Join our support server [here!](./support)
 
 This bot was made with ❤ by [Wise \|\|Dev\|\| Loves To Help#1104](./developer)
 
 Thank you for using this bot!
 
-WiseBot Official | [Discord](https://discord.gg/whcWKaZ) | [Add Bot](https://dsc.gg/wisebot)
+WiseBot Official | [Discord](./support) | [Add Bot](./invite)
