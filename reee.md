@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Infinitely...
-description: ...looping.
+title: Looping...
+description: ...infinitely.
 permalink: /reee
 ---
 
