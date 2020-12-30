@@ -4,7 +4,7 @@ description: An amazing bot made by Wise!
 ---
 
 ## Welcome to WiseBot’s official page!
-![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.2.2-blue?style=for-the-badge&logo=discord)
+![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.2.3-%235539CC?style=for-the-badge&logo=discord)
 
 This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
