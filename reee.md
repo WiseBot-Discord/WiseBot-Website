@@ -7,7 +7,8 @@ permalink: /reee
 
 <meta charset="utf-8">
 <title>Infinitely looping</title>
-<meta http-equiv="refresh" content="0; URL=https://wisebot.tk/infinite-loop">
-<link rel="canonical" href="https://wisebot.tk/infinite-loop">
+<script type=”text/javascript”>
+setTimeout(() => {window.location=”https://wisebot.tk/infinite-loop”;}, 4000)
+</script>
 
 # Loop go brr!!
