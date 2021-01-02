@@ -5,6 +5,6 @@ description: ...looping.
 permalink: /infinite-loop
 ---
 
-<iframe href="./infinite-loop">
+<iframe href="https://wisebot.tk/infinite-loop">
 
 # REEEE!
