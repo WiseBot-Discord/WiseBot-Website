@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WiseBot Moderator Applications
-description: All the best!
+description: All the best! Please be patient for the results.
 permalink: /modapps
 ---
 
