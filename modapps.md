@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome to the moderator applications
-description: Good Luck!
+title: WiseBot Moderator Applications
+description: All the best!
 permalink: /modapps
 ---
 
