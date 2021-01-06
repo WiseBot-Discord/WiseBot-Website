@@ -17,8 +17,18 @@ body {
 }
 
 .site-footer {
-      color: grey;
+  color: grey;
 }
+
+.site-footer a {
+  color: blue;
+}
+
+.btn a {
+  color: rgba(255,255,255,0.7);
+}
+
+
 
 a:link {
   color: #09ff00;
@@ -33,5 +43,5 @@ a:hover {
 }
 
 a:active {
-  color: blue;
+  color: pink;
 }
