@@ -4,11 +4,14 @@ description: An amazing bot made by Wise!
 ---
 
 ## Welcome to WiseBot’s official page!
-![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.2.3-%235539CC?style=for-the-badge&logo=discord)
+![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.3.0-%235539CC?style=for-the-badge&logo=discord)
 
 This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
 - [Support!](./support)
+
+## Important!
+Moderator applications for the [server](./support) are open. [Click here to apply!](./modapps)
 
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
@@ -50,6 +53,11 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon (hopefully)
 - **Ping** - Checks the latency of the bot.
 - **Stats** - Shows bot statistics.
 - **Links** - Provides you with links for support and to add the bot.
+
+### Image
+- **Achievement** - Get your own minecraft achievement! Only renders image with first 20 characters. The minecraft item is completely random.
+- **Trigger** - Trigger someone or yourself!
+- **Wasted** - Oof! They got wasted.
 
 ### Developer Tools
 - **Reload**
