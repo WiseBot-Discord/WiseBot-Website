@@ -10,9 +10,6 @@ This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
 - [Support!](./support)
 
-## Important!
-Moderator applications for the [server](./support) are open. [Click here to apply!](./modapps)
-
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
 
