@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Redirecting...
-description: ...to the support server.
+title: Support server
+description: For any help with the bot.
 permalink: /support
 ---
 
@@ -10,4 +10,4 @@ permalink: /support
 <meta http-equiv="refresh" content="0; URL=https://discord.gg/whcWKaZ">
 <link rel="canonical" href="https://discord.gg/whcWKaZ">
 
-# Support is just a second away!
+# Please hold on!
