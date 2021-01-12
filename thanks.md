@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thank you for adding WiseBot!
-permalink: /support
+permalink: /thanks
 ---
 
 All features and commands are listed [here.](./)
