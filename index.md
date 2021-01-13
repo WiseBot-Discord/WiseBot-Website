@@ -6,6 +6,9 @@ description: An amazing bot made by Wise!
 ## Welcome to WiseBot’s official page!
 ![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.3.0-%235539CC?style=for-the-badge&logo=discord)
 
+[![Status](https://top.gg/api/widget/status/708265201438425128.svg)](https://top.gg/bot/708265201438425128) [![Votes](https://top.gg/api/widget/upvotes/708265201438425128.svg?noavatar=true)](https://top.gg/bot/708265201438425128) [![Discord Bots](https://top.gg/api/widget/owner/708265201438425128.svg?noavatar=true)](https://top.gg/bot/708265201438425128)
+
+
 This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
 - [Support!](./support)
