@@ -15,6 +15,7 @@ This page is for the Discord bot, WiseBot.
 
 ## Notice!
 WiseBot is currently pending verification. It might temporarily not be addable to your servers.
+
 **Status:** Discord is currently processing our request.
 
 ## Commands
