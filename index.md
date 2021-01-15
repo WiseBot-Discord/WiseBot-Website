@@ -14,7 +14,8 @@ This page is for the Discord bot, WiseBot.
 - [Support!](./support)
 
 ## Notice!
-WiseBot is currently pending verification. It will temporarily not be addable to your servers. 
+WiseBot is currently pending verification. It might temporarily not be addable to your servers.
+**Status:** Discord is currently processing our request.
 
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
