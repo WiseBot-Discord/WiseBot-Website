@@ -20,14 +20,6 @@ body {
   color: grey;
 }
 
-.site-footer a, .site-footer a:link, .site-footer a:visited, .site-footer a:active {
-  color: blue;
-}
-
-.btn a, .btn a:link, .btn a:visited, .btn a:hover, .btn a:active {
-  color: rgba(255,255,255,0.7);
-}
-
 a:link {
   color: #09ff00;
 }
@@ -42,4 +34,12 @@ a:hover {
 
 a:active {
   color: pink;
+}
+
+.site-footer a, .site-footer a:link, .site-footer a:visited, .site-footer a:active {
+  color: blue;
+}
+
+.btn a, .btn a:link, .btn a:visited, .btn a:hover, .btn a:active {
+  color: rgba(255,255,255,0.7);
 }
