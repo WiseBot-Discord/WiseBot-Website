@@ -20,11 +20,11 @@ body {
   color: grey;
 }
 
-.site-footer a {
+.site-footer a, .site-footer a:link {
   color: blue;
 }
 
-.btn a {
+.btn a, .btn a:link {
   color: rgba(255,255,255,0.7);
 }
 
