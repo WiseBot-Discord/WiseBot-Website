@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Redirecting...
-description: ...to invite the bot.
+title: Invite
+description: WiseBot
 permalink: /invite
 ---
 
@@ -10,4 +10,4 @@ permalink: /invite
 <meta http-equiv="refresh" content="0; URL=https://dsc.gg/wisebot">
 <link rel="canonical" href="https://dsc.gg/wisebot">
 
-# Just a second and we'll be there!
+# Please hold on...
