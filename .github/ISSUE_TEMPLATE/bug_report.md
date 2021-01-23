@@ -3,7 +3,7 @@ name: Bug report
 about: You've found a bug in the bot or website? Help us squash it.
 title: New bug
 labels: Bug
-assignees: ''
+assignees: Wise2006
 
 ---
 
