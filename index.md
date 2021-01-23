@@ -14,7 +14,7 @@ This page is for the Discord bot, WiseBot.
 - [Support!](./support)
 
 ## Notice!
-WiseBot is now a verified Discord bot! Thank you everyone!
+WiseBot is now a verified Discord bot! Thank you everyone! <br>
 For some reason, the bot isn't addable to servers, still. Please hold on while we contact Discord support to resolve the issue.
 
 ## Commands
