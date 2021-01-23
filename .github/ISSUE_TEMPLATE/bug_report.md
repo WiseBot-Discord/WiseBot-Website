@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: You've found a bug in the bot? Help us squash it.
+about: You've found a bug in the bot or website? Help us squash it.
 title: New bug
 labels: Bug
 assignees: ''
