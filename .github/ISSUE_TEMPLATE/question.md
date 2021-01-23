@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Any questions? Feel free to ask us.
+about: Any questions? Feel free to ask us. (If you need support, please view the below category)
 title: New question
 labels: Question
 assignees: ''
