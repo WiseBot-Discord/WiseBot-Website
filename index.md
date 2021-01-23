@@ -14,14 +14,12 @@ This page is for the Discord bot, WiseBot.
 - [Support!](./support)
 
 ## Notice!
-WiseBot is currently pending verification. It might temporarily not be addable to your servers.
-
-**Status:** Discord is currently processing our request.
+WiseBot is now a verified Discord bot! Thank you everyone!
 
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
 
-For now, the global prefix is `>`. Dynamic prefixes will arrive soon (hopefully).
+For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 
 ### Moderation
 
@@ -38,7 +36,7 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon (hopefully)
 - **Addrole** - Adds a role to a user! (Supports mentions and IDs. Role names too!)
 - **Removerole** - Removes a role from a user! (Supports mentions and IDs. Role names too!)
 - **Avatar** - Displays the avatar of any user (IDs or mentions) or yourself.
-- **Getout** - Makes the bot leave the server. (You need to be an admin for this to work.)
+- **GetOut** - Makes the bot leave the server. (You need to be an admin for this to work.)
 - **Poll** - Creates a simple poll with reactions (check and cross).
 - **Say** - Makes the bot say something for you.
 - **ServerInfo** - Gives you information about the server.
@@ -47,9 +45,14 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon (hopefully)
 - **RoleInfo** - Gives you information about the specified role.
 
 ### Fun
+- **Ascii** - Converts your text into an ascii code block. Only renders first 10 characters.
 - **Beep** - _Beep… Beep…_
-- **Pressf** - _Press F to pay respects._
 - **E** - _E moment._
+- **Message** - Send a message to someone through the bot.
+- **OptIn** - Opt in to the messaging feature.
+- **OptOut** - Opt out of the messaging feature.
+- **PressF** - _Press F to pay respects._
+- **Random** - Pure randomness.
 
 ### Information
 - **Credits** - Displays credits.
@@ -61,17 +64,24 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon (hopefully)
 
 ### Image
 - **Achievement** - Get your own minecraft achievement! Only renders image with first 20 characters. The minecraft item is completely random.
+- **Facepalm** - Facepalm.
+- **Happy** - Express your happiness! (or someone else's!)
+- **Hug** - Hug someone or be hugged.
+- **Pat** - Pat someone or be patted.
 - **Trigger** - Trigger someone or yourself!
 - **Wasted** - Oof! They got wasted.
+- **Wink** - Give someone a wink. ;)
 
 ### Developer Tools
-- **Reload**
-- **Execute**
+- **Blacklist**
 - **Evaluate**
+- **Execute**
+- **Reload**
 
 Thank you for using WiseBot!
 
-![WiseBot Avatar](https://cdn.discordapp.com/avatars/708265201438425128/079dcccdc25467061ac10c8870b74b01.png)
+![WiseBot Avatar]()
+<img src="https://cdn.discordapp.com/avatars/708265201438425128/079dcccdc25467061ac10c8870b74b01.png" alt="WiseBot Avatar" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ## Support or Contact
 Having trouble with using the bot? Want to contact us? Join our support server [here!](./support)
