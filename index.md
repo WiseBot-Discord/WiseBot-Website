@@ -80,7 +80,7 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 
 Thank you for using WiseBot!
 
-<img src="https://cdn.discordapp.com/avatars/708265201438425128/079dcccdc25467061ac10c8870b74b01.png" alt="WiseBot Avatar" style="display: block; margin-left: auto; margin-right: auto; width: 35%; border-radius: 50%;">
+<img src="https://cdn.discordapp.com/avatars/708265201438425128/079dcccdc25467061ac10c8870b74b01.png" alt="WiseBot Avatar" style="display: block; margin-left: auto; margin-right: auto; width: 15%; border-radius: 50%;">
 
 ## Support or Contact
 Having trouble with using the bot? Want to contact us? Join our support server [here!](./support)
