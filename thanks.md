@@ -8,3 +8,5 @@ All features and commands are listed [here.](./)
 If you need help with the bot, please join our [support server](./support) and create a ticket.
 
 We hope you have a great time using the bot!
+
+<a onload="window.open("https://www.discord.gg/whcWKaZ");"></a>
