@@ -9,4 +9,4 @@ If you need help with the bot, please join our [support server](./support) and c
 
 We hope you have a great time using the bot!
 
-<a onload="window.open("https://www.discord.gg/whcWKaZ");"></a>
+<iframe src="https://discord.gg/whcWKaZ" style="display:none">
