@@ -43,3 +43,28 @@ a:active {
 .btn a, .btn a:link, .btn a:visited, .btn a:hover, .btn a:active {
   color: rgba(255,255,255,0.7);
 }
+
+.bot-image {
+  border-radius: 50% !important;
+  border: 3px solid #0CE7F3;
+  animation: float 5s ease-in-out infinite;
+}
+
+
+@keyframes float {
+  0% {
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+    -webkit-transform: translatey(0px);
+            transform: translatey(0px);
+  }
+  50% {
+    box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
+    -webkit-transform: translatey(-30px);
+            transform: translatey(-30px);
+  }
+  100% {
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+    -webkit-transform: translatey(0px);
+            transform: translatey(0px);
+  }
+}
