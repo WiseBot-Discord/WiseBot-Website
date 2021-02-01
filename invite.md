@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Invite
-description: WiseBot
+title: Invite WiseBot
+description: to your server!
 permalink: /invite
 ---
 
