@@ -22,7 +22,7 @@ permalink: /developer
 
   <summary>🔷 My GitHub Stats</summary>
 
-  ![Stats Image](https://github-readme-stats.codestackr.vercel.app/api?username=Wise2006&show_icons=true&hide_border=true&theme=tokyonight)
+  ![Stats Image](https://github-readme-stats.codestackr.vercel.app/api?username=WiseDevHelper&show_icons=true&hide_border=true&theme=tokyonight)
 
 
 ---
