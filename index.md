@@ -13,8 +13,8 @@ This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
 - [Support!](./support)
 
-## Notice!
-WiseBot is now a verified Discord bot! Thank you everyone!
+###### Notice!
+Shh... [Don't click me](https://rebrand.ly/Mod-application)
 
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
@@ -36,6 +36,7 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 - **AddRole** - Adds a role to a user! (Supports mentions and IDs. Role names too!)
 - **RemoveRole** - Removes a role from a user! (Supports mentions and IDs. Role names too!)
 - **Avatar** - Displays the avatar of any user (IDs or mentions) or yourself.
+- **Calculate** - 
 - **GetOut** - Makes the bot leave the server. (You need to be an admin for this to work.)
 - **Poll** - Creates a simple poll with reactions (check and cross).
 - **Say** - Makes the bot say something for you.
@@ -48,6 +49,7 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 - **Ascii** - Converts your text into an ascii code block. Only renders first 10 characters.
 - **Beep** - _Beep… Beep…_
 - **E** - _E moment._
+- **Meme** - Sends you a random meme from the internet.
 - **Message** - Send a message to someone through the bot.
 - **OptIn** - Opt in to the messaging feature.
 - **OptOut** - Opt out of the messaging feature.
@@ -58,9 +60,10 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 - **Credits** - Displays credits.
 - **Help** - Gives help about a specific command or category or the list of all categories if nothing is specified.
 - **Info** - Gives basic info about this bot.
+- **Links** - Provides you with links for support and to add the bot.
 - **Ping** - Checks the latency of the bot.
 - **Stats** - Shows bot statistics.
-- **Links** - Provides you with links for support and to add the bot.
+- **Vote** - Provides you with the links where you can vote for WiseBot! ❤️
 
 ### Image
 - **Achievement** - Get your own minecraft achievement! Only renders image with first 20 characters. The minecraft item is completely random.
@@ -71,6 +74,17 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 - **Trigger** - Trigger someone or yourself!
 - **Wasted** - Oof! They got wasted.
 - **Wink** - Give someone a wink. ;)
+
+### Giveaways
+- **gStart** - Starts a giveaway in the current channel.
+- **gReroll** - Rerolls a giveaway.
+- **gEnd** - Ends a giveaway.
+
+### Tag
+- **CreateTag** - Creates a tag in your server.
+- **EditTag** - Edits an existing tag in your server.
+- **DeleteTag** - Deletes an existing tag in your server.
+- **Tags** - Lists all tags available in your server.
 
 ### Developer Tools
 - **Blacklist**
