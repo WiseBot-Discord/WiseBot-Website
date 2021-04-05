@@ -13,8 +13,7 @@ This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
 - [Support!](./support)
 
-###### Notice!
-Shh... [Don't click me](https://rebrand.ly/Mod-application)
+###### Shh... [Don't click me](https://rebrand.ly/Mod-application)
 
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
