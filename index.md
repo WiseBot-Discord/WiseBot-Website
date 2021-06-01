@@ -4,7 +4,7 @@ description: An amazing bot made by Wise!
 ---
 
 ## Welcome to WiseBot’s official page!
-![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.3.0-%235539CC?style=for-the-badge&logo=discord)
+![Version Badge](https://img.shields.io/badge/Version-Beta%20v1.4.0-%235539CC?style=for-the-badge&logo=discord)
 
 [![Status](https://top.gg/api/widget/status/708265201438425128.svg?leftcolor=5539CC)](https://top.gg/bot/708265201438425128) [![Votes](https://top.gg/api/widget/upvotes/708265201438425128.svg?noavatar=true&leftcolor=5539CC)](https://top.gg/bot/708265201438425128) [![Discord Bots](https://top.gg/api/widget/owner/708265201438425128.svg?noavatar=true&leftcolor=5539CC)](https://top.gg/bot/708265201438425128)
 
@@ -13,18 +13,19 @@ This page is for the Discord bot, WiseBot.
 - [Invite me!](./invite)
 - [Support!](./support)
 
-###### Shh... [Don't click me](https://rebrand.ly/Mod-application)
-
 ## Commands
 There are a lot of commands and the list will, hopefully keep growing. Below is a list of all operational (released) commands:
 
-For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
+The default prefix is `>`. The prefix can be changed with the `prefix` command.
 
 ### Moderation
 
 - **Ban** - Bans a user from the server (IDs and mentions supported).
 - **Kick** - Kicks a user from the server (IDs and mentions supported).
 - **Nick** - Changes the nickname of the mentioned user to what is specified. Specifying nothing resets the user’s name.
+- **ModNick** - Moderates the nickname of the mentioned user to `Moderated Nickname ######`. Used for removing inappropriate or un-pingable names.
+- **Lock** - Locks the specified channel.
+- **Unlock** - Locks the specified channel.
 - **Purge** - Deletes specified amount of messages. (Max of 1000).
 - **Slowmode** - Sets the slowmode of the channel in seconds. (Max is 6hrs).
 - **Unban** - Unban a certain user from your server. (IDs only).
@@ -35,21 +36,23 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 - **AddRole** - Adds a role to a user! (Supports mentions and IDs. Role names too!)
 - **RemoveRole** - Removes a role from a user! (Supports mentions and IDs. Role names too!)
 - **Avatar** - Displays the avatar of any user (IDs or mentions) or yourself.
-- **Calculate** - 
+- **Calculate** - Get help with your math homework! Or just simple calculation.
+- **Enlarge** - Enlarges an emoji!
 - **GetOut** - Makes the bot leave the server. (You need to be an admin for this to work.)
+- **MemberCount** - Gives you the current membercount of your server.
 - **Poll** - Creates a simple poll with reactions (check and cross).
 - **Say** - Makes the bot say something for you.
 - **ServerInfo** - Gives you information about the server.
-- **UserInfo** - Gives you information about yourself or the person you’ve mentioned. (Supports IDs and mentions).
-- **Message** - Sends a message to user!
+- **UserInfo** - Gives you information about yourself or the person you’ve mentioned. (Supports IDs and mentions)
 - **RoleInfo** - Gives you information about the specified role.
+- **Translate** - Translate text.
 
 ### Fun
 - **Ascii** - Converts your text into an ascii code block. Only renders first 10 characters.
 - **Beep** - _Beep… Beep…_
-- **E** - _E moment._
+- **E** - _E moment._ (Staff only)
 - **Meme** - Sends you a random meme from the internet.
-- **Message** - Send a message to someone through the bot.
+- **Message** - Sends a message to user! (Supports IDs and mentions)
 - **OptIn** - Opt in to the messaging feature.
 - **OptOut** - Opt out of the messaging feature.
 - **PressF** - _Press F to pay respects._
@@ -78,12 +81,18 @@ For now, the global prefix is `>`. Dynamic prefixes will arrive soon.
 - **gStart** - Starts a giveaway in the current channel.
 - **gReroll** - Rerolls a giveaway.
 - **gEnd** - Ends a giveaway.
+- **gList** - Gives you the list of giveaways you can join in the server.
 
 ### Tag
 - **CreateTag** - Creates a tag in your server.
 - **EditTag** - Edits an existing tag in your server.
 - **DeleteTag** - Deletes an existing tag in your server.
 - **Tags** - Lists all tags available in your server.
+
+### Settings
+- **MemberRole** - Set the member role for your server.
+- **MuteRole** - Set the mute role for your server.
+- **Prefix** - Set the prefix for your server.
 
 ### Developer Tools
 - **Blacklist**
